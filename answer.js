@@ -21,8 +21,6 @@ function getDayType(day) {
       return "Invalid Day";
   }
 }
-// getDayType(monday)
-// console.log(getDayType);
 
 // Question 3: Username Gatekeeper
 function validateUsername(username) {
